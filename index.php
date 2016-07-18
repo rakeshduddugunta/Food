@@ -92,7 +92,7 @@
 
 
         <a href="default.asp">
-            <img src="images/images.jpg" alt="HTML tutorial" style="width:100px;height:100px;border:0;">
+            <img src="images.jpg" alt="HTML tutorial" style="width:100px;height:100px;border:0;">
         </a>
 
 
