@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head lang="en">
-    <title> 7 WONDERS</title>
+    <title> Indaian Food..! </title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css.css" type="text/css">
     <!-- Latest compiled and minified CSS -->
